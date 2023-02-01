@@ -28,6 +28,8 @@
 #include <stdexcept>
 #include <algorithm>
 
+#undef min
+
 namespace SDL2pp {
 
 ////////////////////////////////////////////////////////////
